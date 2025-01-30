@@ -60,3 +60,6 @@ int main() {
     LCS(X, Y);
     return 0;
 }
+
+// Time Complexity Recursion for printing: T(n,m) = T(n-1,m-1) + c
+// Overall complexity: O(mn)
