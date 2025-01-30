@@ -35,3 +35,6 @@ int main() {
     
     return 0;
 }
+
+// Time Complexity Recursion: T(n) = 2×T(n-1) + c
+// Solves to: O(2^n)
